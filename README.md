@@ -4,4 +4,4 @@ The update brought us the ability to change positions of materials so this is th
 
 **Preview:**
 
-![Preview](https://queen.wtf/gamesense/chams.gif)
+![Preview](https://i.imgur.com/Lx8zkfC.gif)
